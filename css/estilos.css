@@ -1,0 +1,22 @@
+tr.marcar_linha
+{
+   font-size:14;
+   font-family: arial, helvetica, serif;
+   color: #000000;
+   background-color: #5fc47f;
+}
+
+tr.marcar_linha:hover
+{
+   background-color: #CACBD3;
+   text-decoration: none;
+}
+
+.ui-datepicker{
+         width: 200px;
+         font-size: 10pt;
+  }
+  
+  html{
+     background-color: black;
+  }
